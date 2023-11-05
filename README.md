@@ -1,6 +1,6 @@
 # churn-analysic
 pyspark machine learning project
 
-I've used databricks notebook to run this project.
+I've used databricks notebooks to run this project.
 
 
